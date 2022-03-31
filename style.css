@@ -1033,10 +1033,11 @@ h4 {
         height: 320px;
     }
 }
-#self-promotion {
-    font-size: 27px;
+.self-promotion {
+    font-size: 30px;
     font-weight: 650;
 }
+
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
