@@ -1031,9 +1031,6 @@ h4 {
     font-size: 30px;
     font-weight: 650;
 }
-.white-text {
-    color: white;
-}
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
