@@ -276,7 +276,9 @@ a:hover {
     margin-right: 0;
     margin-left: 0;
 }
-
+.text-center {
+    color: black;
+}
 .row.row-no-gutters > [class^="col-"],
 .row.row-no-gutters > [class*=" col-"] {
     padding-right: 0;
@@ -699,7 +701,6 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
 }
 
 h2 {
