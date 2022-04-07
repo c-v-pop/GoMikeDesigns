@@ -278,6 +278,10 @@ a:hover {
 }
 .text-center {
     color: black;
+    margin-top: 5%;
+}
+.socials {
+    margin: 5%;
 }
 .row.row-no-gutters > [class^="col-"],
 .row.row-no-gutters > [class*=" col-"] {
@@ -700,7 +704,7 @@ p {
 }
 
 .social {
-    max-width: 400px;
+    max-width: 40px;
 }
 
 h2 {
@@ -1031,9 +1035,6 @@ h4 {
 .self-promotion {
     font-size: 30px;
     font-weight: 650;
-}
-.social-color {
-    color: white;
 }
 @media (max-width: 400px) {
     .bloc {
