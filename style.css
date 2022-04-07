@@ -968,7 +968,7 @@ h4 {
     }
     .navbar-brand img {
         max-height: 40px;
-        width: auto;
+        width: 160px;
     }
     .nav-invert .navbar-header {
         float: none;
@@ -1046,9 +1046,6 @@ h4 {
     .bloc {
         padding-left: 0;
         padding-right: 0;
-    }
-    .logo_size {
-        width: 100px;
     }
 }
 
