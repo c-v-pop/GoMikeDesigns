@@ -1036,10 +1036,19 @@ h4 {
     font-size: 30px;
     font-weight: 650;
 }
+.small_avatar {
+    width: 150px;
+}
+.logo_size {
+    width: 180px;
+}
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
         padding-right: 0;
+    }
+    .logo_size {
+        width: 100px;
     }
 }
 
